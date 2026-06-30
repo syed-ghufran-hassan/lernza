@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.0 (2026-06-30)
+
+
+### Features
+
+* **dx:** bootstrap script, mainnet env validator, pre-commit tsc+lin… ([068bb06](https://github.com/lernza/lernza/commit/068bb06aa10131c1f3920a6298d6f489310cb3b3))
+* **ops:** add RPC health check, failover, and ops documentation ([2172ed8](https://github.com/lernza/lernza/commit/2172ed8312be291ce55d93a1bc3274cd654270fb))
+* Soroban smart contracts for learn-to-earn quests ([56d3f61](https://github.com/lernza/lernza/commit/56d3f61ba4b05b2926e8743187c50451859d0885))
+* web app — React, Vite, Tailwind, Freighter wallet, editorial UI ([58efdd9](https://github.com/lernza/lernza/commit/58efdd9bca7fa3847d265f65d31d4ba2e45a2439))
+
 ## [Unreleased]
 
 ### ⚠ BREAKING CHANGES
